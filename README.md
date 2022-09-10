@@ -1,7 +1,7 @@
 <h1 align="center">Bok 👋, ja sam Nikola Pustišek</h1>
 <h3 align="center">Junior frontend developer u nastajanju 😅</h3>
 
-- 🔭 Trenutno radim na službenoj stranici StreetGainZ timaz što je ujedno i završni rad na fakultetu [Službena stranica StreetGainZ tima](platypus712.github.io/streetgainz.net/)
+- 🔭 Trenutno radim na službenoj stranici StreetGainZ tima što je ujedno i završni rad na fakultetu: [www.streetgainz.net](platypus712.github.io/streetgainz.net/)
 
 - 🌱 Trenutno sam u procesu učenja **JS-a iako imam veliku želju krenuti učiti neki od popularnih frontend frameworka kao što su React i Angular**
 
