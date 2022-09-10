@@ -11,9 +11,12 @@
 
 - 📫 Za bilo kakva pitanja: **nikolapustisek@gmail.com**
 
+- ⚡ Najdraži pokemon: **Psyduck**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikola-pustišek-187b49249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola-pustišek-187b49249/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18967614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18967614" height="30" width="40" /></a>
 <a href="https://fb.com/npustisek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="npustisek" height="30" width="40" /></a>
 <a href="https://instagram.com/nikola_pustisek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_pustisek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/streetgainz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="streetgainz" height="30" width="40" /></a>
