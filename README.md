@@ -3,7 +3,7 @@
 
 - 🔭 Trenutno radim na službenoj stranici StreetGainZ tima što je ujedno i završni rad na fakultetu: [www.streetgainz.net](platypus712.github.io/streetgainz.net/)
 
-- 🌱 Trenutno sam u procesu učenja **JS-a iako imam veliku želju krenuti učiti neki od popularnih frontend frameworka kao što su React i Angular**
+- 🌱 Trenutno sam u procesu učenja **JS-a, jer imam veliku želju krenuti učiti jedan od popularnijih frontend frameworka kao što je React**
 
 - 👯 U potrazi sam za projektima **koji mi mogu pomoći u učenju HTML-a i CSS-a kao i JS-a**
 
