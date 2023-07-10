@@ -3,9 +3,9 @@
 
 - 🔭 Trenutno radim na službenoj stranici StreetGainZ tima što je ujedno i završni rad na fakultetu: [StreetGainZ](https://platypus712.github.io/streetgainz.net/)
 
-- 👯 U potrazi sam za **projektima koji mi mogu pomoći u učenju HTML-a i CSS-a kao i JS-a**
+- 👯 U potrazi sam za **projektima koji mi mogu pomoći u učenju ovih jezika i okvira: HTML, CSS, JS, React**
 
-- 🤝 Trenutno sam u potrazi **za bilo kakvom praksom (plaćena/neplaćena) ili sličnim opcijama koje mi mogu pomoću u stjecanju iskustva na stvarnim projektima i rokovima. Također, ako se otvori mogućnost zaposlenja nakon određene prakse bilo to part-time ili full-time zainteresiran sam**
+- 🤝 Trenutno sam u potrazi **za stručnom praksom (plaćena/neplaćena) ili junior pozicijom jer smatram to odličim načinom stjecanja iskustva kroz stvarne projekte i rokove. Također, ako se otvori mogućnost zaposlenja nakon određene prakse bilo to part-time ili full-time zainteresiran sam**
 
 - 📫 Za bilo kakva pitanja: **nikolapustisek@gmail.com**
 
